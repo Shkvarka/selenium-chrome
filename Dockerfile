@@ -1,25 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @Shkvarka Sign out
-235
-2,450 949 SeleniumHQ/docker-selenium
- Code  Issues 13  Pull requests 4  Projects 1  Wiki  Insights
-docker-selenium/NodeChrome/Dockerfile
-a99447b  16 days ago
-@diemol diemol 3.12.0-cobalt release
-@ddavison @diemol @kayabendroth @mtscout6 @jeff-jk @elgalu @niQo @vasikarla @wesmcouch @graingert @sethuster @mgingras @joaoluizjoaquim @hnryjms @a-k-g
-     
-58 lines (50 sloc)  2.48 KB
-# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-# NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
-# PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
-# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 FROM selenium/node-base:3.12.0-cobalt
 LABEL authors=SeleniumHQ
 
